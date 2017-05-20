@@ -1,0 +1,6 @@
+roles:
+  - member
+  - chair
+states:
+  nothing_pending:
+    to_recognizing: hand raised
